@@ -1,2 +1,2 @@
 # git
-this is git readme
+practice git
